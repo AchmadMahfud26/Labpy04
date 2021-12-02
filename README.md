@@ -50,5 +50,3 @@ print("""
 ## **Output :**
 
 ![.](Output/output.png)
-
-___
